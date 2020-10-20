@@ -14,6 +14,5 @@ public class Uri1046{
         }
         System.out.println("O JOGO DUROU "+dur+" HORA(S)");
         // System.out.printf("O JOGO DUROU %d HORA(S)\n",dur);
-
     }
 }
